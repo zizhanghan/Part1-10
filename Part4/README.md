@@ -4,3 +4,5 @@ update your sequencer to be able to record just the timestamped transitions betw
 give your sequencer the ability to select a range of output rates for both live and recorded input
 
 I make the delay in part3 to vary to achieve the slow motion and fast motion.
+
+https://github.com/zizhanghan/Part1-10/blob/main/Part4/b415bda593945a6901d193b8ab20a246.mp4
