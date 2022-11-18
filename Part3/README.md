@@ -12,3 +12,5 @@ inputs: BOOT button, console commands, register read/write commands<br>
 outputs: neopixel color, neopixel brightness, data over serial, register read/write commands<br>
 
 I use the array to record every press and transmit the array to the led.
+
+https://github.com/zizhanghan/Part1-10/blob/main/Part3/489e769373daba6d98edefae15d33f01.mp4
